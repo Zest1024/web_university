@@ -4,7 +4,7 @@ Vladyslav Hleb
 
 Lab1:https://docs.google.com/document/d/1kf7c1w7XXezciG5MP3d4ZK8vzr2P0ed_/edit?usp=sharing&ouid=117653274734188135485&rtpof=true&sd=true
 Lab2:https://docs.google.com/document/d/1RAPGOU8P2ln4WSHq3fjrgmZ6c9X6WSAd/edit?usp=share_link&ouid=117653274734188135485&rtpof=true&sd=true
-Lab3:https://docs.google.com/document/d/1RAPGOU8P2ln4WSHq3fjrgmZ6c9X6WSAd/edit?usp=share_link&ouid=117653274734188135485&rtpof=true&sd=true
+Lab3:https://docs.google.com/document/d/1J9csd4rekk1DTf4v3krH3rIAd438CDZkQHxTWNofVAA/edit?usp=sharing
 
 ## Description
 
