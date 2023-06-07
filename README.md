@@ -1,10 +1,9 @@
 Lab work
 
-Vladyslav Hleb
+Ivan Kucher
 
-Lab1:https://docs.google.com/document/d/1kf7c1w7XXezciG5MP3d4ZK8vzr2P0ed_/edit?usp=sharing&ouid=117653274734188135485&rtpof=true&sd=true
-Lab2:https://docs.google.com/document/d/1RAPGOU8P2ln4WSHq3fjrgmZ6c9X6WSAd/edit?usp=share_link&ouid=117653274734188135485&rtpof=true&sd=true
-Lab3:https://docs.google.com/document/d/1J9csd4rekk1DTf4v3krH3rIAd438CDZkQHxTWNofVAA/edit?usp=sharing
+Lab1: https://docs.google.com/document/d/1CfB7FSQ-zrye27t4tkmYwFZureS8Se6sd2RjpTzsU3c/edit?usp=sharing
+Lab2: https://docs.google.com/document/d/1Jfz6U9Y4Wu3uGVLWRsCtFO0c1q8j9cE9Wk6Xci3d9Vc/edit?usp=sharing
 
 ## Description
 
